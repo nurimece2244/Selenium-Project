@@ -1,0 +1,23 @@
+2022-02-17 20:38:13,916 [main] INFO n11.Log4j - Test Baþladý...
+2022-02-17 20:38:22,084 [main] INFO n11.Log4j - Opening Page : https://www.n11.com/
+2022-02-17 20:38:24,385 [main] INFO n11.Log4j - Tam ekrana geçildi
+2022-02-17 20:38:31,055 [main] INFO n11.Log4j - Kampanyalara týklandý
+2022-02-17 20:38:33,234 [main] INFO n11.Log4j - giyimAyakkabi týklandý
+2022-02-17 20:38:56,321 [main] INFO n11.Log4j - giyimAyakkabilinkleri eklendi
+2022-02-17 20:39:29,230 [main] INFO n11.Log4j - Test Baþladý...
+2022-02-17 20:39:40,906 [main] INFO n11.Log4j - Opening Page : https://www.n11.com/
+2022-02-17 20:39:43,059 [main] INFO n11.Log4j - Tam ekrana geçildi
+2022-02-17 20:39:50,335 [main] INFO n11.Log4j - Kampanyalara týklandý
+2022-02-17 20:39:52,486 [main] INFO n11.Log4j - giyimAyakkabi týklandý
+2022-02-17 20:40:15,668 [main] INFO n11.Log4j - giyimAyakkabilinkleri eklendi
+2022-02-17 20:40:17,779 [main] INFO n11.Log4j - elektronik týklandý
+2022-02-17 20:40:39,492 [main] INFO n11.Log4j - elektronik linkleri eklendi
+2022-02-17 20:40:40,607 [main] INFO n11.Log4j - evYasam týklandý
+2022-02-17 20:41:02,725 [main] INFO n11.Log4j - evYasam linkleri eklendi
+2022-02-17 20:41:03,837 [main] INFO n11.Log4j - anneBebek týklandý
+2022-02-17 20:41:25,995 [main] INFO n11.Log4j - anneBebek linkleri eklendi
+2022-02-17 20:41:27,127 [main] INFO n11.Log4j - kozmetikKisiselBakim týklandý
+2022-02-17 20:41:49,293 [main] INFO n11.Log4j - kozmetikKisiselBakim linkleri eklendi
+2022-02-17 20:41:50,402 [main] INFO n11.Log4j - mucevherSaat týklandý
+2022-02-17 20:42:12,363 [main] INFO n11.Log4j - mucevherSaat linkleri eklendi
+2022-02-17 20:42:13,483 [main] INFO n11.Log4j - spor týklandý
